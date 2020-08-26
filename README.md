@@ -9,3 +9,4 @@
 * **Window_step_4** - Implemented the functionality of the calculator form with sending all the entered data.
 * **Window_step_5** - a countdown timer functionality has been implemented.
 * **Window_step_6** - implemented the functionality of increasing images when clicking on them.
+* **Window_step_7** - additional project improvements.
