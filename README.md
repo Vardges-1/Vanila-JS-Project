@@ -2,7 +2,7 @@
 
 **In the project directory, you can run**
 
-npm gulp
+npx gulp
 
 ## List of folders and changes in them:
 
