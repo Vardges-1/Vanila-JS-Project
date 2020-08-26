@@ -1,5 +1,8 @@
 # Window Project
 
+**In the project directory, you can run**
+
+npm gulp
 
 ## List of folders and changes in them:
 
